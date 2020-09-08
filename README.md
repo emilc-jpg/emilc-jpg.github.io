@@ -1,4 +1,4 @@
-# Emily Chen Homepage
+# Homepage
 
-Houses links to all respositories and projects I have done over the years.
+Home site configurations as well as links to all respositories and projects I have done over the years.
 
