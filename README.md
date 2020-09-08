@@ -1,2 +1,4 @@
-# Emily Chen base site emilc-jpg.github.io
+# Homepage: emilc-jpg.github.io
+
+Houses links to all respositories and projects I have done over the years.
 
