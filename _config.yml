@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Emily Chen
-description: really, welcome to my site
+logo: /assets/images/photo.png
+description: Applied Cognition and Neuroscience student at the University of Texas at Dallas.
+show_downloads: true
+google_analytics:
 baseurl: /emilc-jpg.github.io
