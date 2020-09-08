@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Mysite
+description: really, welcome to my site
+baseurl: /emilc-jpg.github.io
